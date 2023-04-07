@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Say Hello</title>
+    </head>
+    <body>
+        <img src="https://c4.wallpaperflare.com/wallpaper/482/457/94/san-francisco-dock-giants-stadium-stadium-wallpaper-preview.jpg"
+        <br>
+        <form action="greet" method="post">
+        <p> what's your name</p>
+        <br>
+        <input type= "text" name="name_input">
+        <br>
+        <input type="submit" value="GREET" id="greet
+        ">
+    </body>
+
